@@ -1,0 +1,1 @@
+rgb(71, 21, 36)https://teachablemachine.withgoogle.com/models/.json
